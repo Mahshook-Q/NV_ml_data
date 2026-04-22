@@ -38,6 +38,3 @@ import pandas as pd
 
 data = pd.read_pickle(path + 'filename')
 ```
-
-Some files are stored in [pickle](https://docs.python.org/2/library/pickle.html) to preserve the
-data type. To access them use,
